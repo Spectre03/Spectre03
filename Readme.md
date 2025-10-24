@@ -1,16 +1,16 @@
 # 👋 Welcome to My GitHub Profile
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&pause=1000&color=4fc08d&center=true&width=900&height=60&lines=Shopify+Hydrogen+Developer+%7C+MERN+Developer+%7C+Full-Stack+Engineer+%7C+Frontend+Performance+%26+CRO)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&pause=1000&color=4fc08d&center=true&width=900&height=60&lines=Shopify+Hydrogen+Developer+%7C+MERN+Developer+%7C+Full-Stack+Engineer+%7C+Frontend+Performance+%26+CRO)
 
 ---
 
-## 💻 Tech Stack (logo rich)
+## 💻 Tech Stack (logo-rich)
 
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Shopify Hydrogen](https://img.shields.io/badge/Shopify-Hydrogen-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,6 +36,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP-lang](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <!-- Cloud & DevOps -->
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -53,13 +54,33 @@
 
 ---
 
+## ⚡ Skills & Expertise
+*(taken from your profile — kept concise and comprehensive)* :contentReference[oaicite:1]{index=1}
+
+**Front-End**  
+`React` · `Shopify Hydrogen` · `Next.js` · `Redux` · `Tailwind CSS` · `Bootstrap` · `Material-UI` · `Figma`
+
+**Back-End**  
+`Node.js` · `Express.js` · `GraphQL` · `REST APIs` · `PHP` · `Laravel`
+
+**Databases**  
+`MongoDB` · `MySQL` · `PostgreSQL` · `Firebase`
+
+**Programming**  
+`JavaScript (ES6+)` · `TypeScript` · `Python` · `C` · `C++` · `PHP`
+
+**Cloud & DevOps**  
+`AWS` · `Vercel` · `Netlify` · `Heroku` · `Docker` · `CI/CD` (GitHub Actions)
+
+**Other Tools**  
+`Git` · `GitHub` · `Jest` · `Postman` · `SEO Optimization` · `Performance Auditing`
+
+---
+
 ## 📈 GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spectre03&show_icons=true&theme=radical" alt="github-stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectre03&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
@@ -70,9 +91,10 @@
 
 ---
 
-## 🔎 Quick links
-- **Pinned Projects** — pin your best repos to show at top of profile (EHR, HR Management, Shopify projects).  
-- **Portfolio / Contact** — add your portfolio & email in GitHub profile settings (keeps README minimal).
+## 🔗 Quick (Profile) Notes
+- Pin your top repos (EHR, HR Management, Shopify/MERN projects) for instant impact.  
+- Keep your GitHub profile bio short: `Shopify Hydrogen · MERN · Full-Stack` (the README holds the detail).  
+- To show this README on your profile: create a **public repo** named exactly `Spectre03` and add this `README.md`.
 
 ---
 
