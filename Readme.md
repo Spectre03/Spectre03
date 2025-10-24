@@ -119,5 +119,5 @@ I build high-converting, lightning-fast headless Shopify storefronts (Hydrogen +
 ---
 
 <div align=\"center\">
-<small>Made with ❤️ — tailored for client conversions and recruiter clarity. Want screenshots, certificate badges, or pinned project cards added now? Tell me the 3 projects & any certificate images and I'll update the README immediately.</small>
+<small>Made with ❤️ — tailored for client conversions and recruiter clarity.</small>
 </div>
