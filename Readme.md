@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-## 📊 GitHub Stats
+## 📊 **GitHub Statistics**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spectre03&layout=compact&theme=default)](https://github.com/Spectre03)  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Spectre03&show_icons=true&count_private=true&theme=default)](https://github.com/Spectre03)
