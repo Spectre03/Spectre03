@@ -56,25 +56,21 @@
 
 ---
 
-<div align="center">
+## 📊 GitHub Activity & Stats
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Spectre03&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spectre03&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Spectre03&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Spectre03&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectre03&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</td>
-</tr>
-</table>
+### 💻 Coding Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Repositories-15+-blue?style=for-the-badge" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Total_Commits-500+-green?style=for-the-badge" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Years_Coding-3+-red?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Projects_Completed-10+-orange?style=for-the-badge" alt="Projects"/>
+</p>
 
 </div>
 
