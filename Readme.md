@@ -1,6 +1,6 @@
 <div align="center">
 
-# �‍💻 Obaid Ullah | Spectre03
+# 💻 Obaid Ullah | Spectre03
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Shopify+Hydrogen+Developer;Full+Stack+MERN+Engineer;Building+Lightning-Fast+Storefronts;Performance+%26+SEO+Specialist)
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## �️ Tech Arsenal
+## 🔧 Tech Arsenal
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
