@@ -1,10 +1,8 @@
 <div align="center">
 
-# 💻 Obaid Ullah | Spectre03
+# � Welcome to My GitHub Profile
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Shopify+Hydrogen+Developer;Full+Stack+MERN+Engineer;Building+Lightning-Fast+Storefronts;Performance+%26+SEO+Specialist)
-
-<img src="https://komarev.com/ghpvc/?username=Spectre03&color=blue&style=flat-square" alt="Profile Views"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Obaid+Ullah;Shopify+Hydrogen+Developer;Full+Stack+MERN+Engineer;Building+Lightning-Fast+Storefronts;Available+for+Hire+on+Upwork!)
 
 </div>
 
@@ -12,64 +10,14 @@
 
 <div align="center">
 
-## 💫 About Me
+## 🎯 About Me
 
-🎓 Software Engineering Student at **Riphah International University**  
-🛍️ Specialized in **Shopify Hydrogen** & **Headless Commerce**  
-⚡ Expert in **React**, **Next.js**, and **MERN Stack Development**  
-🎯 Focused on **Performance**, **SEO** & **User Experience**  
-🚀 Building **scalable e-commerce solutions** & **SaaS applications**  
-💼 Available for hire on [**Upwork**](https://www.upwork.com/freelancers/~0125f2b00661dd7655?mp_source=share)  
-
-</div>
-
----
-
-<div align="center">
-
-## 🔧 Tech Arsenal
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### E-Commerce & Tools
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Spectre03&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-### 💻 Coding Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Repositories-15+-blue?style=for-the-badge" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Total_Commits-500+-green?style=for-the-badge" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Years_Coding-3+-red?style=for-the-badge" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Projects_Completed-10+-orange?style=for-the-badge" alt="Projects"/>
-</p>
+- 🎓 **Bachelor's Degree in Software Engineering – Riphah International University**
+- 🏆 **Shopify Hydrogen & Headless Commerce Specialist**
+- 💼 **Full Stack Developer | MERN Stack Expert**
+- ⚡ Passionate about **Performance Optimization, SEO & CRO**
+- 🚀 Delivering **scalable, high-converting apps** for **eCommerce, SaaS & Healthcare**
+- � **Available for hire** – Let's build something amazing together!
 
 </div>
 
@@ -77,16 +25,54 @@
 
 <div align="center">
 
-## 🎓 Certifications & Achievements
+## 🏆 Certifications
 
-| Certification | Issuer |
-|--------------|--------|
-| ✅ Shopify Partner Academy - Developer Track | Shopify |
-| ✅ Shopify Hydrogen Fundamentals | Shopify Official |
-| ✅ MERN Stack Professional Certificate | Project-Based |
-| ✅ Responsive Web Design | freeCodeCamp |
-| ✅ JavaScript Algorithms & Data Structures | freeCodeCamp |
-| ✅ Google Analytics & SEO Fundamentals | Google |
+✔ Shopify Partner Academy — Developer Track  
+✔ Shopify Hydrogen Fundamentals (Official)  
+✔ MERN Stack Professional Certificate (Project-Based)  
+✔ freeCodeCamp — Responsive Web Design & JavaScript Algorithms  
+✔ Google Analytics & SEO Fundamentals  
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Skills & Expertise
+
+**Front-End**  
+`React` · `Shopify Hydrogen` · `Next.js` · `Redux` · `Tailwind CSS` · `Bootstrap` · `Material-UI` · `TypeScript`
+
+**Back-End**  
+`Node.js` · `Express.js` · `GraphQL` · `REST APIs` · `MongoDB` · `Firebase` · `Stripe`
+
+**E-Commerce & Shopify**  
+`Shopify Hydrogen` · `Oxygen` · `Storefront API` · `Admin API` · `Liquid` · `Theme Development`
+
+**Tools & DevOps**  
+`Git` · `GitHub Actions` · `Docker` · `Postman` · `Vercel` · `Netlify` · `Cloudflare`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,javascript,html,css,tailwind,bootstrap,materialui,graphql,firebase,git,github,docker,vercel,netlify,postman" alt="Tech Stack" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![Obaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spectre03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spectre03&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -98,58 +84,77 @@
 
 </div>
 
-### 🎨 Portfolio Website
-> A modern, responsive portfolio showcasing my work and case studies
+### 🎨 Portfolio Website — Personal Branding & Case Studies
+> A modern, responsive portfolio showcasing my work, case studies, and client testimonials
 
-**Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+**Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 
-**Features:** Dynamic routing • SEO optimized • Fast page loads • Mobile-first design
+**Key Features:**
+- ⚡ Lightning-fast page loads with Next.js SSG
+- 📱 Fully responsive, mobile-first design
+- 🎯 SEO optimized for maximum visibility
+- 💬 Integrated contact form with email notifications
 
 ---
 
-### 🏥 EHR System - Healthcare Dashboard
-> Electronic Health Records platform with appointment scheduling and patient management
+### 🏥 EHR System — Healthcare Dashboard
+> Electronic Health Records platform with appointment scheduling, patient management, and real-time updates
 
 **Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
 
-**Features:** Patient records • Scheduling system • Report generation • Real-time updates
+**Key Features:**
+- 📋 Complete patient record management
+- 📅 Appointment scheduling system
+- 📊 Report generation & analytics
+- 🔒 HIPAA-compliant security measures
 
 ---
 
-### 👔 HR Management System
-> Complete HR solution with employee management and payroll processing
+### 👔 HR Management System — Employee & Payroll Management
+> Complete HR solution with employee profiles, leave management, and automated payroll processing
 
-**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens)
+**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb) ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=json-web-tokens)
 
-**Features:** Employee profiles • Leave management • Payroll exports • Role-based access
+**Key Features:**
+- 👥 Employee profile management
+- 📊 Leave tracking & approval system
+- 💰 Automated payroll calculations
+- 🔐 Role-based access control
 
 ---
 
 <div align="center">
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect & Build Something Great!
 
+<a href="https://www.upwork.com/freelancers/~0125f2b00661dd7655?mp_source=share">
+  <img src="https://img.shields.io/badge/Hire_Me_on_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+</a>
 <a href="https://www.linkedin.com/in/obaid-ullah-arshad-344273221/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.upwork.com/freelancers/~0125f2b00661dd7655?mp_source=share">
-  <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-</a>
 <a href="mailto:Obaidullaharshad101@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Spectre03">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
+<br/><br/>
+
+### 💡 Why Work With Me?
+
+**✅ Production-Ready Code** — Clean, maintainable, and scalable solutions  
+**✅ Fast Turnaround** — Efficient development with daily updates  
+**✅ Client-Focused** — Your success is my priority  
+**✅ Full Stack Expertise** — From concept to deployment  
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Spectre03&color=blueviolet&style=flat-square)
 
 ---
 
-<div align="center">
-
-### 💡 "Building the future of e-commerce, one line of code at a time"
-
-**⭐ Star my repositories if you find them useful!**
+⭐ **"Building high-converting, lightning-fast web experiences that drive real business results"** ⭐
 
 </div>
