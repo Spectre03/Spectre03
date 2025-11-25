@@ -70,10 +70,19 @@
 ---
 
 <div align="center">
-## 📊 **GitHub Statistics**
+## 📊 GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spectre03&layout=compact&theme=default)](https://github.com/Spectre03)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Spectre03&show_icons=true&count_private=true&theme=default)](https://github.com/Spectre03)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spectre03&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spectre03&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spectre03&theme=github_dark" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spectre03&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spectre03&theme=github_dark" alt="Productive Time" />
+</p>
 
 </div>
 
