@@ -59,8 +59,7 @@
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Spectre03&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spectre03&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=Spectre03&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ### 💻 Coding Stats
